@@ -1,0 +1,10 @@
+# Local duplicate — keep on disk, do not publish
+HiOrbit_game_backup/
+
+# OS / editor noise
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.vscode/
+.idea/
